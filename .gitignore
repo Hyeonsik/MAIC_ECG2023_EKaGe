@@ -12,6 +12,8 @@ __pycache__/
 *.zip
 *.vital
 dataset/
+randomSearch/
+!randomSearch/best_model/
 
 # Distribution / packaging
 .Python
